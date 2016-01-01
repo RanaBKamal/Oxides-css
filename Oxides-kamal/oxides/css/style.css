@@ -317,17 +317,17 @@ div.about-info-container p.about-detail{
   border-right: 2px solid #fd7e7e;
 }
 .creative-img{
-   background: url('../images/creatives.png')  5.26315789473684% 50% no-repeat; 
+   background: url('../images/creatives.png')  10px 50% no-repeat; 
 }
 
 .coders-img {
-   background: url('../images/coders.png')  5.78947368421053% 50% no-repeat; 
+   background: url('../images/coders.png')  11px 50% no-repeat; 
 }
 .designers-img{
-   background: url('../images/designers.png')  6.84210526315789% 50% no-repeat; 
+   background: url('../images/designers.png')  13px 50% no-repeat; 
 }
 .workers-img{
-   background: url('../images/workers.png')  5.78947368421053% 50% no-repeat; 
+   background: url('../images/workers.png')  11px 50% no-repeat; 
 }
 
 .emphasis{
@@ -616,13 +616,13 @@ div.about-info-container p.about-detail{
  
 }
 .stream-nav p{
-  line-height: 31px;
+  line-height: 24px;
   font-family: 'Roboto';
   font-weight: bold;
   color: #4d687b;
   font-size: 8px;
 }
 .stream-nav p img{
-  padding-left: 0.79365079%;
+  padding-left: 0.99365079%;
   padding-right: 2.380952381%;
 }
